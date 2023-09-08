@@ -2,6 +2,8 @@
 
 public class PlayMovement : MonoBehaviour
 {
+
+    //kajsa
     public float runSpeed = 2;
     public float jumpSpeed = 3;
     public float doubleJumpSpeed = 5f;
